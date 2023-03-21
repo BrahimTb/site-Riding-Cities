@@ -1,2 +1,2 @@
 # site-Riding-Cities
-Page et code existants du site Riding Cities
+Mise à jour de la page Riding Cities
